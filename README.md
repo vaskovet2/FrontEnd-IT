@@ -1,4 +1,4 @@
-my-it-online.com – Frontend Overview
+my-it-online  – Frontend Overview
 
 This project is a Vite + React + TypeScript single‑page application styled with Chakra UI. It demonstrates a lightweight authentication demo, a reusable navigation system, animated visuals, and several feature pages (Home, Login, Register, Contact, FAQ) built with a clean, component‑driven architecture.
 
